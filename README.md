@@ -1,2 +1,4 @@
 # odin-recipes
-odin project html recipe website
+odin project foundations recipe project
+
+creating a basic html website about recipes
